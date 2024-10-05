@@ -25,167 +25,95 @@
       "discount": null,
       "price": 1000
     },
+       {
+      "name": "Lil solid EZ",
+      "category": "Электронные устройства",
+      "subcategory": "Держатели",
+      "description": "Повторный запуск без подзарядки: Да. Тип: держатель. Количество повторных запусков без подзарядки: 3 раза. Материал корпуса: пластик. Количество сессий на одном заряде: 25 раз. Порт для зарядки: USB-C. Размер: 104x30x21.5 мм. Комплектация: USB кабель, блок питания, чистящее устройство. Дополнительно: данный продукт не является безвредным; только для лиц старше 21-го года. Цвета: черный, синий, мятный, белый.",
+      "quantity": 4,
+      "discount": null,
+      "price": null
+    },
     {
-      "img": [
-        "https://gas-kvas.com/grafic/uploads/posts/2023-09/1695883725_gas-kvas-com-p-kartinki-buketa-tsvetov-15.jpg"
-      ],
-      "name": "monaco_town",
-      "name_english": "monaco_town",
-      "category": "Цветы_в_коробке",
+      "name": "Iqos iluma one",
+      "category": "Электронные устройства",
+      "subcategory": "Держатели",
+      "description": "Повторный запуск без подзарядки: Да. Тип: держатель. Количество повторных запусков без подзарядки: 20 раз. Материал корпуса: металл. Количество сессий на одном заряде: 20 раз. Порт для зарядки: USB-C. Рабочая температура: от 0 ⁰C до 50 ⁰C. Комплектация: держатель IQOS ILUMA ONE, блок питания для зарядки от сети, USB-кабель Type-C. Дополнительно: данный продукт не является безвредным; только для лиц старше 21-го года; IQOS ILUMA ONE предназначен для использования только с TEREA.",
+      "quantity": 4,
+      "discount": null,
+      "price": null
+    },
+    {
+      "name": "Iqos iluma",
+      "category": "Электронные устройства",
+      "subcategory": "Держатели",
+      "description": "Повторный запуск без подзарядки: Да. Тип: держатель с зарядным устройством. Количество повторных запусков без подзарядки: 2 раза. Материал корпуса: пластик. Количество сессий на одном заряде: 20 раз. Порт для зарядки: USB-C. Рабочая температура: от 0 ⁰C до 50 ⁰C. Комплектация: держатель IQOS ILUMA, зарядное устройство IQOS ILUMA, блок питания для зарядки от сети, USB-кабель Type-C. Дополнительно: данный продукт не является безвредным; только для лиц старше 21-го года; IQOS ILUMA предназначен для использования только с TEREA.",
+      "quantity": 3,
+      "discount": null,
+      "price": null
+    },
+    {
+      "name": "Iqos iluma prime",
+      "category": "Электронные устройства",
+      "subcategory": "Держатели",
+      "description": "Повторный запуск без подзарядки: Да. Тип: держатель с зарядным устройством. Количество повторных запусков без подзарядки: 2 раза. Материал корпуса: металл. Количество сессий на одном заряде: 20 раз. Порт для зарядки: USB-C. Рабочая температура: от 0 ⁰C до 50 ⁰C. Комплектация: держатель IQOS ILUMA PRIME, зарядное устройство IQOS ILUMA PRIME, блок питания для зарядки от сети, USB-кабель Type-C. Дополнительно: данный продукт не является безвредным; только для лиц старше 21-го года; IQOS ILUMA PRIME предназначен для использования только с TEREA.",
+      "quantity": 4,
+      "discount": null,
+      "price": null
+    },
+    {
+      "name": "Terea turquoise",
+      "category": "Стики",
       "subcategory": null,
-      "description": "квартира в городе",
-      "quantity": 34,
+      "description": "Ментол",
+      "quantity": 3,
       "discount": null,
-      "price": 76
+      "price": null
     },
     {
-      "img": [
-        "https://static.tildacdn.com/tild3234-3139-4632-b865-373038623932/3137.jpg",
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656094024_8-mykaleidoscope-ru-p-ofigennii-buket-krasivo-foto-8.jpg"
-      ],
-      "name": "Malayan",
-      "name_english": "pools",
-      "category": "Цветы_в_коробке",
+      "name": "Terea purple wave",
+      "category": "Стики",
       "subcategory": null,
-      "description": "Jdjdjd",
-      "quantity": 990,
+      "description": "Лесные ягоды, ментол",
+      "quantity": 3,
       "discount": null,
-      "price": 89404
+      "price": null
     },
     {
-      "img": [
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656094024_8-mykaleidoscope-ru-p-ofigennii-buket-krasivo-foto-8.jpg",
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656332245_8-mykaleidoscope-ru-p-samie-roskoshnie-buketi-tsvetov-krasivo-fo-8.jpg",
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656121281_17-mykaleidoscope-ru-p-super-buketi-krasivo-foto-17.jpg"
-      ],
-      "name": "хорошая книга",
-      "name_english": "good_book",
-      "category": "Монобукеты",
-      "subcategory": "Лилии",
-      "description": "vv",
-      "quantity": 77,
-      "discount": null,
-      "price": 5
-    },
-    {
-      "img": [
-        "https://tsveti76.ru/uploads/product/000/81/prima_2021-07-19_17-46-29.jpg"
-      ],
-      "name": "Розы еще одни",
-      "name_english": "rose_for_something",
-      "category": "Монобукеты",
-      "subcategory": "Розы",
-      "description": "Bejdjrnrb",
-      "quantity": 20,
-      "discount": null,
-      "price": 400
-    },
-    {
-      "img": [
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656333957_62-mykaleidoscope-ru-p-nestandartnie-buketi-tsvetov-krasivo-foto-63.jpg"
-      ],
-      "name": "Оплатами",
-      "name_english": "rose",
-      "category": "Монобукеты",
-      "subcategory": "Розы",
-      "description": "Hdjdndn r",
-      "quantity": 77,
-      "discount": null,
-      "price": 676
-    },
-    {
-      "img": [
-        "https://lideski-flowers.ru/wp-content/uploads/2021/10/3500-smol.jpeg"
-      ],
-      "name": "Bnnnmm",
-      "name_english": "doghouse",
-      "category": "Монобукеты",
-      "subcategory": "Розы",
-      "description": "Hrjrjrb",
-      "quantity": 1234,
-      "discount": null,
-      "price": 8890.07
-    },
-    {
-      "img": [
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656043886_41-mykaleidoscope-ru-p-mnogo-buketov-tsvetov-krasivo-foto-45.jpg"
-      ],
-      "name": "Будильник",
-      "name_english": "clock",
-      "category": "Монобукеты",
-      "subcategory": "Лилии",
-      "description": "Здесь описание",
-      "quantity": 90,
-      "discount": null,
-      "price": 5600
-    },
-    {
-      "img": [
-        "https://mykaleidoscope.ru/uploads/posts/2022-06/1656319053_66-mykaleidoscope-ru-p-buket-tsvetov-v-upakovke-krasivo-foto-69.jpg"
-      ],
-      "name": "букет который ваня должен",
-      "name_english": "flowers_for_vera",
-      "category": "Монобукеты",
-      "subcategory": "Розы",
-      "description": "ваня я жду",
-      "quantity": 8,
-      "discount": null,
-      "price": 77
-    },
-    {
-      "img": [
-        "AgACAgIAAxkBAAIa3GRezWO_ATLh8lQ_qWgz6amnvpP_AALXxjEbRC74Ss5_JRKPSmRdAQADAgADcwADLwQ",
-        "AgACAgIAAxkBAAIa3mRezWkPu8TBnp8mwEAQ6yQqViEqAALYxjEbRC74SrC3kUrK1rpMAQADAgADcwADLwQ",
-        "AgACAgIAAxkBAAIa4GRezW0qvZ_d3emSSMrQWoZhXPwYAALZxjEbRC74SoWbS1DTqICUAQADAgADcwADLwQ",
-        "AgACAgIAAxkBAAIa4mRezXGLYA3JKe6NeS14N6MaMWjrAALaxjEbRC74Su7PHusI7p9KAQADAgADcwADLwQ"
-      ],
-      "name": "Розы Silva Pink",
-      "name_english": "rose_silva_pink",
-      "category": "Монобукеты",
-      "subcategory": "Розы",
-      "description": "красивый букет цветов, шикарный, премиум букет, 50 см.\nофрмление-крафт бумага",
-      "quantity": 5000,
-      "discount": null,
-      "price": 99
-    },
-    {
-      "img": [
-        "AgACAgIAAxkBAAIZN2Rej3KUduy1z45nueVfA2ITdL8gAAJHyTEbkEb4Sq9Nca_5P9byAQADAgADcwADLwQ"
-      ],
-      "name": "лучшая пара мира",
-      "name_english": "best_couple",
-      "category": "Монобукеты",
-      "subcategory": "Гипсофилы",
-      "description": "мы лучшие",
-      "quantity": 90,
-      "discount": null,
-      "price": 0
-    },
-    {
-      "img": [
-        "https://mykaleidoscope.ru/uploads/posts/2021-10/1635267668_21-mykaleidoscope-ru-p-shikarnie-tsveti-tsveti-24.jpg"
-      ],
-      "name": "Павел",
-      "name_english": "tape",
-      "category": "Монобукеты",
-      "subcategory": "Гипсофилы",
-      "description": "H",
-      "quantity": 90,
-      "discount": null,
-      "price": 890
-    },
-    {
-      "img": [
-        "https://mykaleidoscope.ru/uploads/posts/2021-10/1635267668_21-mykaleidoscope-ru-p-shikarnie-tsveti-tsveti-24.jpg"
-      ],
-      "name": "ivan_boy",
-      "name_english": "ivan_boy",
-      "category": "Авторские_букеты",
+      "name": "Green zing",
+      "category": "Стики",
       "subcategory": null,
-      "description": "мальчик огонь",
-      "quantity": 100000,
+      "description": "Цитрус, пряные травы, ментол",
+      "quantity": 1,
       "discount": null,
-      "price": 900
+      "price": null
+    },
+    {
+      "name": "Amber",
+      "category": "Стики",
+      "subcategory": null,
+      "description": "Древесно ореховые нотки",
+      "quantity": 1,
+      "discount": null,
+      "price": null
+    },
+    {
+      "name": "Sun pearl",
+      "category": "Стики",
+      "subcategory": null,
+      "description": "Фруктовые нотки",
+      "quantity": 1,
+      "discount": null,
+      "price": null
+    },
+    {
+      "name": "Summer wave",
+      "category": "Стики",
+      "subcategory": null,
+      "description": "Цветочные нотки, персик, ментол",
+      "quantity": 1,
+      "discount": null,
+      "price": null
     }
   ]
 }
